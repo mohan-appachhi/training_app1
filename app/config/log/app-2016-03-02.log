@@ -1,0 +1,299 @@
+[Wed, 02 Mar 16 13:28:22 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:29:30 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:31:21 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 13:32:16 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 13:32:24 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:32:29 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:32:43 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:32:57 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:33:08 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 13:33:13 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:33:45 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 13:34:15 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:38:48 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:40:24 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:44:49 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:53:54 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 14:54:12 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:54:34 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:54:58 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 14:55:02 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:56:14 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 14:56:14 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 14:56:14 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 14:56:14 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:57:01 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 14:57:10 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 14:57:17 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:58:09 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 14:58:15 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:59:09 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 14:59:13 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 15:00:02 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 15:00:12 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 15:00:27 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 15:23:36 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=768e02e7c1028b4ac893fb674f741296&oauth_timestamp=1456912415GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=bU3vDh8yWrU96k6shlPUxMwfZWc%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 15:25:23 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=a9f2a0e65534a325561ce6990b4ca5e1&oauth_timestamp=1456912523GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=LUEAB1lmPDjyeVGuXRWO1MVHNUM%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 15:25:24 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=b7201a160ce6a53b2763d514cea0a825&oauth_timestamp=1456912524GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=DeKO1xqbyiAzDsnVxi6qELxO8Rc%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 15:25:25 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=e544adb04bb0c648f7a4c8d6f5c4742c&oauth_timestamp=1456912525GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=OgX9%2BRLRa%2FHqu7D1jmYlXQvaMh0%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 15:25:25 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=4a2fc34c092c0c0a0c0725fdd39ce8bb&oauth_timestamp=1456912525GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=J0jXxki9rZdkaZnatZZdE9Ij0Do%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 15:25:25 +0530][DEBUG] https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=e5791ade89479b85e932b03c504ba2ff&oauth_timestamp=1456912525GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_token=&oauth_signature=qOv2WipZvl9kjSfkzRwOlgbXsis%3D&format=rest&nojsoncallback=1&page=1&per_page=25&date=2012-05-04
+[Wed, 02 Mar 16 16:09:15 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456915154GMTC&oauth_signature=BDxakTeF1AKcogLczTe2gOCfpaw=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:10:30 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456915230GMTC&oauth_signature=3EvBoR1Brx3+rLtyKVeaOaWP/n8=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:11:49 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456915306GMTC&oauth_signature=Ex2n2LGKW0oxmF2VahfWQ/voomo=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:21:16 +0530][DEBUG] 
+[Wed, 02 Mar 16 16:22:24 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456915944GMTC&oauth_signature=S5oBXlI3IU68YhwQ19d8I9j8eWc=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:25:55 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.photos.search&sort=relevance&safe_search=1&content_type=4&api_key=f1223192eab5461b28cb8a2872c27129&format=json&per_page=10
+[Wed, 02 Mar 16 16:29:42 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.photos.search&sort=relevance&safe_search=1&content_type=4&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&format=json&per_page=10
+[Wed, 02 Mar 16 16:30:56 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&format=json&per_page=10
+[Wed, 02 Mar 16 16:34:02 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456916642GMTC&oauth_signature=hGPIjYRUniatWJOBB2IJE9NqpTs=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:35:48 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456916747GMTC&oauth_signature=P7CB4dgv2kRagTL6gepr2b576eA=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:36:43 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456916802GMTC&oauth_signature=GTNRplrBsGhEANzTLEkBeny7HsA=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:46:00 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&text=&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456917360GMTC&oauth_signature=PB1NYeNn8C9mQG8IE9S3t+Akk/U=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:46:48 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456917408GMTC&oauth_signature=H0jpETMLVptjJ+TpcIUZTlgMwEM=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:51:40 +0530][DEBUG] http://api.flickr.com/services/rest/?method=flickr.interestingness.getList&sort=relevance&safe_search=1&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_token=&oauth_token_secret=&sig_methodHMAC-SHA1&oauth_version=1.0&oauth_timestamp=1456917700GMTC&oauth_signature=tku58BOoaLnBfhDCAlwiDglyVZU=&nojsoncallback=1&page=1&format=json&per_page=25
+[Wed, 02 Mar 16 16:58:11 +0530][DEBUG] 
+[Wed, 02 Mar 16 16:58:59 +0530][DEBUG] 
+[Wed, 02 Mar 16 17:00:26 +0530][DEBUG] https://api.flickr.com/services/rest/?
+[Wed, 02 Mar 16 17:01:21 +0530][DEBUG] https://api.flickr.com/services/rest/?
+[Wed, 02 Mar 16 17:04:49 +0530][DEBUG] https://api.flickr.com/services/rest/?
+[Wed, 02 Mar 16 17:09:58 +0530][DEBUG] https://api.flickr.com/services/rest/?
+[Wed, 02 Mar 16 17:10:48 +0530][DEBUG] https://api.flickr.com/services/rest/?
+[Wed, 02 Mar 16 17:11:15 +0530][DEBUG] https://api.flickr.com/services/rest/?method=flickr.interestingness.getList&oauth_nonce=ed13bb061c58a0d41642fbc740b1b3ab&oauth_timestamp=1456918875GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=KpPHMPYcJobt0R8a3C0RUVGKzGE%3D&format=rest&nojsoncallback=1&page=1
+[Wed, 02 Mar 16 17:12:31 +0530][DEBUG] https://api.flickr.com/services/rest/?method=flickr.interestingness.getList&oauth_nonce=d192fc1bebe8fedf5107823f9e5a777c&oauth_timestamp=1456918951GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=tAZsuajvvguvzMlBVkOpua2%2FETk%3D&format=rest&nojsoncallback=1&page=1
+[Wed, 02 Mar 16 17:12:46 +0530][DEBUG] https://api.flickr.com/services/rest/?method=flickr.interestingness.getList&oauth_nonce=70a21923b2f224de25a4204fde0e9f9f&oauth_timestamp=1456918965GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=Qcc0kGdJjYvcOfoK7Q82r0q5RJA%3D&format=rest&nojsoncallback=1&page=1&per_page=25
+[Wed, 02 Mar 16 17:14:40 +0530][DEBUG] 
+[Wed, 02 Mar 16 17:14:52 +0530][DEBUG] 
+[Wed, 02 Mar 16 17:23:14 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:24:07 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:24:20 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:24:52 +0530][DEBUG] <?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photos page="1" pages="20" perpage="25" total="500">
+	<photo id="25307315061" owner="48988488@N04" secret="ebac1191e0" server="1485" farm="2" title="introspezione" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25114698470" owner="39638504@N07" secret="3681757861" server="1496" farm="2" title="without borders" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25286052762" owner="90917568@N03" secret="c595bce537" server="1530" farm="2" title="Winter's blossoms" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25374454246" owner="43301211@N03" secret="2249c772df" server="1614" farm="2" title="Serene..........." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24779589954" owner="125059154@N07" secret="729e551e93" server="1637" farm="2" title="Forest Rays, Exmoor, Somerset, UK" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24770646024" owner="110186192@N04" secret="416eb71e41" server="1707" farm="2" title="Postcards From The Edge" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25288839052" owner="70788108@N08" secret="e1a85939e0" server="1582" farm="2" title="The Mane Man" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25366057446" owner="51425782@N06" secret="61e298d391" server="1650" farm="2" title="Moraine Lake, Banff Alberta (Explore #6 -  March 1, 2016)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096750830" owner="26156338@N07" secret="6dbbee6c72" server="1504" farm="2" title="Bluewater Bridge, Sarnia" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24790731304" owner="95387869@N07" secret="8369349bd0" server="1470" farm="2" title="Lone walker" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25044390169" owner="82831944@N02" secret="fe99337710" server="1469" farm="2" title="...come ammuffire dignitosamente.." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24781112284" owner="53400673@N08" secret="f10642d1fa" server="1596" farm="2" title="Oregon High Desert in Summer" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25389431096" owner="105152118@N06" secret="2365e50269" server="1498" farm="2" title="le ali della fantasia - the wings of fantasy" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25292857992" owner="38414403@N08" secret="cb005942cd" server="1564" farm="2" title="Reaching for Light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370791926" owner="25897183@N04" secret="e52d37a0f1" server="1480" farm="2" title="Palette of a Sunset" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25416835505" owner="103925212@N02" secret="5836bb7067" server="1508" farm="2" title="Lake Bled Panorama" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24772120194" owner="46170864@N02" secret="73348921c5" server="1631" farm="2" title="Just Leaving" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25296205532" owner="43629629@N04" secret="e0964b4864" server="1533" farm="2" title="Veronica persica" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096280020" owner="77892185@N03" secret="82f3846724" server="1543" farm="2" title="Ghost Train" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25295472762" owner="132192297@N04" secret="64ecd2110d" server="1716" farm="2" title="Le Mont-Blanc depuis Chamonix (3)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370603246" owner="90853225@N07" secret="7ec93a0b22" server="1644" farm="2" title="Hippo / 河马" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25032705399" owner="129199972@N04" secret="4d5d72c4e2" server="1696" farm="2" title="Rhinos love" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25101395840" owner="69868933@N07" secret="083ca471c2" server="1706" farm="2" title="Blue-Yellow macaw" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24765884154" owner="92054252@N00" secret="bd37fcb6ed" server="1528" farm="2" title="birthday light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25320932011" owner="14435418@N07" secret="1922deba47" server="1676" farm="2" title="Swirls" ispublic="1" isfriend="0" isfamily="0" />
+</photos>
+</rsp>
+
+[Wed, 02 Mar 16 17:29:13 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:29:18 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:29:30 +0530][DEBUG] <?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photos page="1" pages="20" perpage="25" total="500">
+	<photo id="25307315061" owner="48988488@N04" secret="ebac1191e0" server="1485" farm="2" title="introspezione" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25114698470" owner="39638504@N07" secret="3681757861" server="1496" farm="2" title="without borders" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25286052762" owner="90917568@N03" secret="c595bce537" server="1530" farm="2" title="Winter's blossoms" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25374454246" owner="43301211@N03" secret="2249c772df" server="1614" farm="2" title="Serene..........." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24779589954" owner="125059154@N07" secret="729e551e93" server="1637" farm="2" title="Forest Rays, Exmoor, Somerset, UK" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24770646024" owner="110186192@N04" secret="416eb71e41" server="1707" farm="2" title="Postcards From The Edge" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25288839052" owner="70788108@N08" secret="e1a85939e0" server="1582" farm="2" title="The Mane Man" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25366057446" owner="51425782@N06" secret="61e298d391" server="1650" farm="2" title="Moraine Lake, Banff Alberta (Explore #6 -  March 1, 2016)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096750830" owner="26156338@N07" secret="6dbbee6c72" server="1504" farm="2" title="Bluewater Bridge, Sarnia" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24790731304" owner="95387869@N07" secret="8369349bd0" server="1470" farm="2" title="Lone walker" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25044390169" owner="82831944@N02" secret="fe99337710" server="1469" farm="2" title="...come ammuffire dignitosamente.." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24781112284" owner="53400673@N08" secret="f10642d1fa" server="1596" farm="2" title="Oregon High Desert in Summer" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25389431096" owner="105152118@N06" secret="2365e50269" server="1498" farm="2" title="le ali della fantasia - the wings of fantasy" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25292857992" owner="38414403@N08" secret="cb005942cd" server="1564" farm="2" title="Reaching for Light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370791926" owner="25897183@N04" secret="e52d37a0f1" server="1480" farm="2" title="Palette of a Sunset" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25416835505" owner="103925212@N02" secret="5836bb7067" server="1508" farm="2" title="Lake Bled Panorama" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24772120194" owner="46170864@N02" secret="73348921c5" server="1631" farm="2" title="Just Leaving" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25296205532" owner="43629629@N04" secret="e0964b4864" server="1533" farm="2" title="Veronica persica" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096280020" owner="77892185@N03" secret="82f3846724" server="1543" farm="2" title="Ghost Train" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25295472762" owner="132192297@N04" secret="64ecd2110d" server="1716" farm="2" title="Le Mont-Blanc depuis Chamonix (3)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370603246" owner="90853225@N07" secret="7ec93a0b22" server="1644" farm="2" title="Hippo / 河马" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25032705399" owner="129199972@N04" secret="4d5d72c4e2" server="1696" farm="2" title="Rhinos love" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25101395840" owner="69868933@N07" secret="083ca471c2" server="1706" farm="2" title="Blue-Yellow macaw" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24765884154" owner="92054252@N00" secret="bd37fcb6ed" server="1528" farm="2" title="birthday light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25320932011" owner="14435418@N07" secret="1922deba47" server="1676" farm="2" title="Swirls" ispublic="1" isfriend="0" isfamily="0" />
+</photos>
+</rsp>
+
+[Wed, 02 Mar 16 17:29:39 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:31:42 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:32:02 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:33:19 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:33:36 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:37:02 +0530][DEBUG] <?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photos page="1" pages="20" perpage="25" total="500">
+	<photo id="25307315061" owner="48988488@N04" secret="ebac1191e0" server="1485" farm="2" title="introspezione" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25114698470" owner="39638504@N07" secret="3681757861" server="1496" farm="2" title="without borders" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25286052762" owner="90917568@N03" secret="c595bce537" server="1530" farm="2" title="Winter's blossoms" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25374454246" owner="43301211@N03" secret="2249c772df" server="1614" farm="2" title="Serene..........." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24779589954" owner="125059154@N07" secret="729e551e93" server="1637" farm="2" title="Forest Rays, Exmoor, Somerset, UK" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24770646024" owner="110186192@N04" secret="416eb71e41" server="1707" farm="2" title="Postcards From The Edge" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25288839052" owner="70788108@N08" secret="e1a85939e0" server="1582" farm="2" title="The Mane Man" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25366057446" owner="51425782@N06" secret="61e298d391" server="1650" farm="2" title="Moraine Lake, Banff Alberta (Explore #6 -  March 1, 2016)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096750830" owner="26156338@N07" secret="6dbbee6c72" server="1504" farm="2" title="Bluewater Bridge, Sarnia" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24790731304" owner="95387869@N07" secret="8369349bd0" server="1470" farm="2" title="Lone walker" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25044390169" owner="82831944@N02" secret="fe99337710" server="1469" farm="2" title="...come ammuffire dignitosamente.." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24781112284" owner="53400673@N08" secret="f10642d1fa" server="1596" farm="2" title="Oregon High Desert in Summer" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25389431096" owner="105152118@N06" secret="2365e50269" server="1498" farm="2" title="le ali della fantasia - the wings of fantasy" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25292857992" owner="38414403@N08" secret="cb005942cd" server="1564" farm="2" title="Reaching for Light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370791926" owner="25897183@N04" secret="e52d37a0f1" server="1480" farm="2" title="Palette of a Sunset" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25416835505" owner="103925212@N02" secret="5836bb7067" server="1508" farm="2" title="Lake Bled Panorama" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24772120194" owner="46170864@N02" secret="73348921c5" server="1631" farm="2" title="Just Leaving" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25296205532" owner="43629629@N04" secret="e0964b4864" server="1533" farm="2" title="Veronica persica" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096280020" owner="77892185@N03" secret="82f3846724" server="1543" farm="2" title="Ghost Train" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25295472762" owner="132192297@N04" secret="64ecd2110d" server="1716" farm="2" title="Le Mont-Blanc depuis Chamonix (3)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370603246" owner="90853225@N07" secret="7ec93a0b22" server="1644" farm="2" title="Hippo / 河马" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25032705399" owner="129199972@N04" secret="4d5d72c4e2" server="1696" farm="2" title="Rhinos love" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25101395840" owner="69868933@N07" secret="083ca471c2" server="1706" farm="2" title="Blue-Yellow macaw" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24765884154" owner="92054252@N00" secret="bd37fcb6ed" server="1528" farm="2" title="birthday light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25320932011" owner="14435418@N07" secret="1922deba47" server="1676" farm="2" title="Swirls" ispublic="1" isfriend="0" isfamily="0" />
+</photos>
+</rsp>
+
+[Wed, 02 Mar 16 17:37:06 +0530][DEBUG] <?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photos page="1" pages="20" perpage="25" total="500">
+	<photo id="25307315061" owner="48988488@N04" secret="ebac1191e0" server="1485" farm="2" title="introspezione" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25114698470" owner="39638504@N07" secret="3681757861" server="1496" farm="2" title="without borders" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25286052762" owner="90917568@N03" secret="c595bce537" server="1530" farm="2" title="Winter's blossoms" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25374454246" owner="43301211@N03" secret="2249c772df" server="1614" farm="2" title="Serene..........." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24779589954" owner="125059154@N07" secret="729e551e93" server="1637" farm="2" title="Forest Rays, Exmoor, Somerset, UK" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24770646024" owner="110186192@N04" secret="416eb71e41" server="1707" farm="2" title="Postcards From The Edge" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25288839052" owner="70788108@N08" secret="e1a85939e0" server="1582" farm="2" title="The Mane Man" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25366057446" owner="51425782@N06" secret="61e298d391" server="1650" farm="2" title="Moraine Lake, Banff Alberta (Explore #6 -  March 1, 2016)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096750830" owner="26156338@N07" secret="6dbbee6c72" server="1504" farm="2" title="Bluewater Bridge, Sarnia" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24790731304" owner="95387869@N07" secret="8369349bd0" server="1470" farm="2" title="Lone walker" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25044390169" owner="82831944@N02" secret="fe99337710" server="1469" farm="2" title="...come ammuffire dignitosamente.." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24781112284" owner="53400673@N08" secret="f10642d1fa" server="1596" farm="2" title="Oregon High Desert in Summer" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25389431096" owner="105152118@N06" secret="2365e50269" server="1498" farm="2" title="le ali della fantasia - the wings of fantasy" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25292857992" owner="38414403@N08" secret="cb005942cd" server="1564" farm="2" title="Reaching for Light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370791926" owner="25897183@N04" secret="e52d37a0f1" server="1480" farm="2" title="Palette of a Sunset" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25416835505" owner="103925212@N02" secret="5836bb7067" server="1508" farm="2" title="Lake Bled Panorama" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24772120194" owner="46170864@N02" secret="73348921c5" server="1631" farm="2" title="Just Leaving" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25296205532" owner="43629629@N04" secret="e0964b4864" server="1533" farm="2" title="Veronica persica" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096280020" owner="77892185@N03" secret="82f3846724" server="1543" farm="2" title="Ghost Train" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25295472762" owner="132192297@N04" secret="64ecd2110d" server="1716" farm="2" title="Le Mont-Blanc depuis Chamonix (3)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370603246" owner="90853225@N07" secret="7ec93a0b22" server="1644" farm="2" title="Hippo / 河马" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25032705399" owner="129199972@N04" secret="4d5d72c4e2" server="1696" farm="2" title="Rhinos love" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25101395840" owner="69868933@N07" secret="083ca471c2" server="1706" farm="2" title="Blue-Yellow macaw" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24765884154" owner="92054252@N00" secret="bd37fcb6ed" server="1528" farm="2" title="birthday light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25320932011" owner="14435418@N07" secret="1922deba47" server="1676" farm="2" title="Swirls" ispublic="1" isfriend="0" isfamily="0" />
+</photos>
+</rsp>
+
+[Wed, 02 Mar 16 17:37:09 +0530][DEBUG] <?xml version="1.0" encoding="utf-8" ?>
+<rsp stat="ok">
+<photos page="1" pages="20" perpage="25" total="500">
+	<photo id="25307315061" owner="48988488@N04" secret="ebac1191e0" server="1485" farm="2" title="introspezione" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25114698470" owner="39638504@N07" secret="3681757861" server="1496" farm="2" title="without borders" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25286052762" owner="90917568@N03" secret="c595bce537" server="1530" farm="2" title="Winter's blossoms" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25374454246" owner="43301211@N03" secret="2249c772df" server="1614" farm="2" title="Serene..........." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24779589954" owner="125059154@N07" secret="729e551e93" server="1637" farm="2" title="Forest Rays, Exmoor, Somerset, UK" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24770646024" owner="110186192@N04" secret="416eb71e41" server="1707" farm="2" title="Postcards From The Edge" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25288839052" owner="70788108@N08" secret="e1a85939e0" server="1582" farm="2" title="The Mane Man" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25366057446" owner="51425782@N06" secret="61e298d391" server="1650" farm="2" title="Moraine Lake, Banff Alberta (Explore #6 -  March 1, 2016)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096750830" owner="26156338@N07" secret="6dbbee6c72" server="1504" farm="2" title="Bluewater Bridge, Sarnia" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24790731304" owner="95387869@N07" secret="8369349bd0" server="1470" farm="2" title="Lone walker" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25044390169" owner="82831944@N02" secret="fe99337710" server="1469" farm="2" title="...come ammuffire dignitosamente.." ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24781112284" owner="53400673@N08" secret="f10642d1fa" server="1596" farm="2" title="Oregon High Desert in Summer" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25389431096" owner="105152118@N06" secret="2365e50269" server="1498" farm="2" title="le ali della fantasia - the wings of fantasy" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25292857992" owner="38414403@N08" secret="cb005942cd" server="1564" farm="2" title="Reaching for Light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370791926" owner="25897183@N04" secret="e52d37a0f1" server="1480" farm="2" title="Palette of a Sunset" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25416835505" owner="103925212@N02" secret="5836bb7067" server="1508" farm="2" title="Lake Bled Panorama" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24772120194" owner="46170864@N02" secret="73348921c5" server="1631" farm="2" title="Just Leaving" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25296205532" owner="43629629@N04" secret="e0964b4864" server="1533" farm="2" title="Veronica persica" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25096280020" owner="77892185@N03" secret="82f3846724" server="1543" farm="2" title="Ghost Train" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25295472762" owner="132192297@N04" secret="64ecd2110d" server="1716" farm="2" title="Le Mont-Blanc depuis Chamonix (3)" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25370603246" owner="90853225@N07" secret="7ec93a0b22" server="1644" farm="2" title="Hippo / 河马" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25032705399" owner="129199972@N04" secret="4d5d72c4e2" server="1696" farm="2" title="Rhinos love" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25101395840" owner="69868933@N07" secret="083ca471c2" server="1706" farm="2" title="Blue-Yellow macaw" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="24765884154" owner="92054252@N00" secret="bd37fcb6ed" server="1528" farm="2" title="birthday light" ispublic="1" isfriend="0" isfamily="0" />
+	<photo id="25320932011" owner="14435418@N07" secret="1922deba47" server="1676" farm="2" title="Swirls" ispublic="1" isfriend="0" isfamily="0" />
+</photos>
+</rsp>
+
+[Wed, 02 Mar 16 17:37:14 +0530][DEBUG] [Flickr]interestingAction(): action found
+[Wed, 02 Mar 16 17:37:19 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:37:58 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 17:40:12 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:41:48 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:42:18 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:42:45 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:42:58 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:43:20 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:43:25 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 18:43:25 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 18:43:25 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 18:43:25 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:43:39 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:43:46 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 18:43:46 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 18:43:46 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 18:43:46 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:43:48 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:48:33 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:48:46 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:48:55 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:49:19 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 18:49:26 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:06:18 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:06:50 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:06:57 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:07:02 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:07:33 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:22:56 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:26:42 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:27:06 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:27:27 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:32:55 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:33:04 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:33:04 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:33:04 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:33:04 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:33:20 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:33:39 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:33:39 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:33:39 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:33:39 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:33:46 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:38:19 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:46:44 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:46:51 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:46:51 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:46:51 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:46:52 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:46:55 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:47:02 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:47:02 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:47:02 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:47:02 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:47:05 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:47:08 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:47:08 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:47:08 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:47:08 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:47:10 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:50:20 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:50:27 +0530][DEBUG] IndexController- indexAction():strat()
+[Wed, 02 Mar 16 19:50:27 +0530][ERROR] Link redirected
+[Wed, 02 Mar 16 19:50:27 +0530][DEBUG] End():Returned to GutterView
+[Wed, 02 Mar 16 19:50:27 +0530][DEBUG] GutterController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:50:29 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded
+[Wed, 02 Mar 16 19:50:35 +0530][DEBUG] FlickrController - indexAction():strat()-view loaded

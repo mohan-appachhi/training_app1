@@ -1,0 +1,61 @@
+[Tue, 29 Mar 16 13:11:14 +0530][DEBUG] [training_app]indexaction_start() : page=8
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] file time = 0
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] 
+ Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=a9dba87679261db5e876253aa2735b29&oauth_timestamp=1459237274GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=zYUlIIN%2FGd2IU5m8utvKPW%2FqV%2BI%3D&format=rest&nojsoncallback=1&page=8&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] Time take in api = 9.9405694007874E-7
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app]interestingAction_start() 
+
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[upsidedown astronomer]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[AadenH]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[△krakamo]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[a.holger69]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Keith Wilko]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[shollingsworth]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[rainbowcave]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Deirdre moments]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[tonny_christensen]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[jebob]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[wcw1940]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[unterwasserpfeife]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Raymond.Ling.43]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[muffett68 ☺☺]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[John St John Photography]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[khteWisconsin]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[matt knoth]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Reed 1949]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[paul indigo]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[lenswrangler]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Janslb]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Insu Nuzzi]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[M_Theory]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Just Ard]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : START url=[Javin Lau]
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app] makeCleanUrl() : END
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG]  = urls 
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] 
+[Tue, 29 Mar 16 13:11:15 +0530][DEBUG] [training_app]interestingAction_end() at : time = 2.7001142501831E-8

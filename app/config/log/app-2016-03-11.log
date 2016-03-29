@@ -1,0 +1,263 @@
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] file time = 8.790500164032E-7
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=8492b6261d6c2e7e52690e332bec9fe7&oauth_timestamp=1457704613GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=pUX5Mzsu4zwjQkXxDPSW14j3JQU%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] Time take in api = 8.8004994392395E-7
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:26:53 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.0000944137573E-8
+[Fri, 11 Mar 16 19:27:14 +0530][DEBUG] [Flickr]apicallaction_start() at : page=14
+[Fri, 11 Mar 16 19:27:15 +0530][DEBUG] file time = 1.0330591201782E-6
+[Fri, 11 Mar 16 19:27:15 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=bfad65ba1fb1163cba1d6643f52d96ca&oauth_timestamp=1457704634GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=zMumfpqlDs9KwIGO9kxRcQvHCDY%3D&format=rest&nojsoncallback=1&page=14&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:27:15 +0530][DEBUG] Time take in api = 1.0330591201782E-6
+[Fri, 11 Mar 16 19:27:15 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:27:15 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.0000944137573E-8
+[Fri, 11 Mar 16 19:27:59 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:28:04 +0530][DEBUG] file time = 5.100291967392E-6
+[Fri, 11 Mar 16 19:28:04 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=3b7f30548bb61a781c5cd126af90d694&oauth_timestamp=1457704679GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=xana6UlIFRoTr8kheuH8BMzAEmI%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:28:04 +0530][DEBUG] Time take in api = 5.1032919883728E-6
+[Fri, 11 Mar 16 19:28:04 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:28:04 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:31:46 +0530][DEBUG] [Flickr]apicallaction_start() at : page=14
+[Fri, 11 Mar 16 19:31:53 +0530][DEBUG] file time = 6.7003831863403E-6
+[Fri, 11 Mar 16 19:31:53 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=8f7b0e866d6e5e74495aba3d761b5049&oauth_timestamp=1457704906GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=qo3B6frFTc4XtN4fIGceU8Krt3E%3D&format=rest&nojsoncallback=1&page=14&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:31:53 +0530][DEBUG] Time take in api = 6.7013831138611E-6
+[Fri, 11 Mar 16 19:31:53 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:31:53 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:32:01 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:32:06 +0530][DEBUG] file time = 5.1282930374146E-6
+[Fri, 11 Mar 16 19:32:06 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=5b8d360b24ce785f9447b9d42f49e9d9&oauth_timestamp=1457704921GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=o0nxP2yaaubKKn2C2%2FjKlE1Chgk%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:32:06 +0530][DEBUG] Time take in api = 5.130294084549E-6
+[Fri, 11 Mar 16 19:32:06 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:32:06 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 9.9999904632568E-9
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] [Flickr]apicallaction_start() at : page=18
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] file time = 8.5304880142212E-7
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=47828a7cee3440660bd271564d948279&oauth_timestamp=1457704936GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=j4TwwRaM1h32aGpFgNg%2B4AX0B2I%3D&format=rest&nojsoncallback=1&page=18&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] Time take in api = 8.5404896736145E-7
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:32:16 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.5000820159912E-8
+[Fri, 11 Mar 16 19:32:34 +0530][DEBUG] [Flickr]apicallaction_start() at : page=20
+[Fri, 11 Mar 16 19:32:35 +0530][DEBUG] file time = 9.8605585098267E-7
+[Fri, 11 Mar 16 19:32:35 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=e272e1f9df77efe0227dfdd65eff29fd&oauth_timestamp=1457704954GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=1slkNB2GgUA9QFncXJXn7y08YFk%3D&format=rest&nojsoncallback=1&page=20&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:32:35 +0530][DEBUG] Time take in api = 9.87056016922E-7
+[Fri, 11 Mar 16 19:32:35 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:32:35 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.1001110076904E-8
+[Fri, 11 Mar 16 19:32:43 +0530][DEBUG] [Flickr]apicallaction_start() at : page=10
+[Fri, 11 Mar 16 19:32:44 +0530][DEBUG] file time = 9.6005511283875E-7
+[Fri, 11 Mar 16 19:32:44 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=b197f22c35088b75a341220f3b34e190&oauth_timestamp=1457704963GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=oQPbXt%2Fs7jf5dOj4qoI%2FoPrV93A%3D&format=rest&nojsoncallback=1&page=10&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:32:44 +0530][DEBUG] Time take in api = 9.610550403595E-7
+[Fri, 11 Mar 16 19:32:44 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:32:44 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.1000871658325E-8
+[Fri, 11 Mar 16 19:32:51 +0530][DEBUG] [Flickr]apicallaction_start() at : page=9
+[Fri, 11 Mar 16 19:32:53 +0530][DEBUG] file time = 1.5600888729095E-6
+[Fri, 11 Mar 16 19:32:53 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=36316c65694e298436d4a552c1f8e5f8&oauth_timestamp=1457704971GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=SI1b2xXii0KI451eR5VwBrfiZrE%3D&format=rest&nojsoncallback=1&page=9&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:32:53 +0530][DEBUG] Time take in api = 1.5600888729095E-6
+[Fri, 11 Mar 16 19:32:53 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:32:53 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7001152038574E-8
+[Fri, 11 Mar 16 19:33:15 +0530][DEBUG] [Flickr]apicallaction_start() at : page=2
+[Fri, 11 Mar 16 19:33:16 +0530][DEBUG] file time = 1.1950681209564E-6
+[Fri, 11 Mar 16 19:33:16 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=5b72a9e5743a10f6b754bcee7428285c&oauth_timestamp=1457704995GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=3%2Fa66HSDlmVyQvnTLX%2B%2Bi3hj5HE%3D&format=rest&nojsoncallback=1&page=2&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:33:16 +0530][DEBUG] Time take in api = 1.1960680484772E-6
+[Fri, 11 Mar 16 19:33:16 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:33:16 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:33:24 +0530][DEBUG] [Flickr]apicallaction_start() at : page=3
+[Fri, 11 Mar 16 19:33:25 +0530][DEBUG] file time = 1.2070689201355E-6
+[Fri, 11 Mar 16 19:33:25 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=870355ab577ca685912c4d9a299729bc&oauth_timestamp=1457705004GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=AEnh7%2FK7O5x1DkpNDMmenCFPsYI%3D&format=rest&nojsoncallback=1&page=3&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:33:25 +0530][DEBUG] Time take in api = 1.2080690860748E-6
+[Fri, 11 Mar 16 19:33:25 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:33:25 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:33:32 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:33:33 +0530][DEBUG] file time = 8.8505101203918E-7
+[Fri, 11 Mar 16 19:33:33 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=0a6ba1c5e707a51510eeb7a3970a2669&oauth_timestamp=1457705012GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=mtSDgAaU12FhpyVYyrbrke%2Fjwxg%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:33:33 +0530][DEBUG] Time take in api = 8.8705086708069E-7
+[Fri, 11 Mar 16 19:33:33 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:33:33 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:33:39 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:33:40 +0530][DEBUG] file time = 1.059061050415E-6
+[Fri, 11 Mar 16 19:33:40 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=c8ae35eb6df3b776bfba3e5fbd13090f&oauth_timestamp=1457705019GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=d3whX6WzTgKTgHBVXHeb7BMoLdo%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:33:40 +0530][DEBUG] Time take in api = 1.0600609779358E-6
+[Fri, 11 Mar 16 19:33:40 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:33:40 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.0999917984009E-8
+[Fri, 11 Mar 16 19:34:01 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:34:03 +0530][DEBUG] file time = 1.4590840339661E-6
+[Fri, 11 Mar 16 19:34:03 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=da0ac6f90c425f15f601340c778778b3&oauth_timestamp=1457705041GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=jxW3n1eIrOwaQCZb3akc1QQuFjc%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:34:03 +0530][DEBUG] Time take in api = 1.4600841999054E-6
+[Fri, 11 Mar 16 19:34:03 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:34:03 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:34:11 +0530][DEBUG] [Flickr]apicallaction_start() at : page=4
+[Fri, 11 Mar 16 19:34:13 +0530][DEBUG] file time = 1.2670722007751E-6
+[Fri, 11 Mar 16 19:34:13 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=4e2aeea36f3a6e6aac6786bf3a4ad1ca&oauth_timestamp=1457705051GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=nI7WpjMepo8sprKoAVJJn3zKrpc%3D&format=rest&nojsoncallback=1&page=4&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:34:13 +0530][DEBUG] Time take in api = 1.2680730819702E-6
+[Fri, 11 Mar 16 19:34:13 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:34:13 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.8000841140747E-8
+[Fri, 11 Mar 16 19:34:27 +0530][DEBUG] [Flickr]apicallaction_start() at : page=5
+[Fri, 11 Mar 16 19:34:28 +0530][DEBUG] file time = 1.2800741195679E-6
+[Fri, 11 Mar 16 19:34:28 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=aa4900362e3677755f1a711611fa97a6&oauth_timestamp=1457705067GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=FyiSeyqKeduRv36V29jEPXV6A2A%3D&format=rest&nojsoncallback=1&page=5&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:34:28 +0530][DEBUG] Time take in api = 1.2810740470886E-6
+[Fri, 11 Mar 16 19:34:28 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:34:28 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:34:41 +0530][DEBUG] [Flickr]apicallaction_start() at : page=6
+[Fri, 11 Mar 16 19:34:47 +0530][DEBUG] file time = 5.5063140392303E-6
+[Fri, 11 Mar 16 19:34:47 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=166768e4b87f52341d0eb182451f1b57&oauth_timestamp=1457705081GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=KlkdC0pxRHKrvr%2BbHyWM9p%2BHyTE%3D&format=rest&nojsoncallback=1&page=6&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:34:47 +0530][DEBUG] Time take in api = 5.5073149204254E-6
+[Fri, 11 Mar 16 19:34:47 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:34:47 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000032424927E-8
+[Fri, 11 Mar 16 19:34:59 +0530][DEBUG] [Flickr]apicallaction_start() at : page=7
+[Fri, 11 Mar 16 19:35:06 +0530][DEBUG] file time = 6.8143901824951E-6
+[Fri, 11 Mar 16 19:35:06 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=5e1ea4892edf521e62d76b7938884707&oauth_timestamp=1457705099GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=%2BASzNpU%2FOqWcvO0P7JdEHKGdw2A%3D&format=rest&nojsoncallback=1&page=7&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:35:06 +0530][DEBUG] Time take in api = 6.8153901100159E-6
+[Fri, 11 Mar 16 19:35:06 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:35:06 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:35:18 +0530][DEBUG] [Flickr]apicallaction_start() at : page=8
+[Fri, 11 Mar 16 19:35:20 +0530][DEBUG] file time = 1.051059961319E-6
+[Fri, 11 Mar 16 19:35:20 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=6a2f4696b6f9772ed1af31279cb13602&oauth_timestamp=1457705118GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=ZkdI0wnhU9Hi28J%2Bwwpz8p7ip20%3D&format=rest&nojsoncallback=1&page=8&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:35:20 +0530][DEBUG] Time take in api = 1.0530600547791E-6
+[Fri, 11 Mar 16 19:35:20 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:35:20 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:35:54 +0530][DEBUG] [Flickr]apicallaction_start() at : page=9
+[Fri, 11 Mar 16 19:35:55 +0530][DEBUG] file time = 9.1905283927917E-7
+[Fri, 11 Mar 16 19:35:55 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=d0e4012c0fcd6398db13ed5e14da9f11&oauth_timestamp=1457705154GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=ChnjSZl3FY4q4NM5BThJuXjUtEk%3D&format=rest&nojsoncallback=1&page=9&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:35:55 +0530][DEBUG] Time take in api = 9.2005300521851E-7
+[Fri, 11 Mar 16 19:35:55 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:35:55 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7001152038574E-8
+[Fri, 11 Mar 16 19:36:09 +0530][DEBUG] [Flickr]apicallaction_start() at : page=10
+[Fri, 11 Mar 16 19:36:10 +0530][DEBUG] file time = 1.1080629825592E-6
+[Fri, 11 Mar 16 19:36:10 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=bcf166d80f366ccfc1d58f7840d48868&oauth_timestamp=1457705169GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=Ed%2FnLsXYa1g9sMzhYLCoWKmobrw%3D&format=rest&nojsoncallback=1&page=10&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:36:10 +0530][DEBUG] Time take in api = 1.10906291008E-6
+[Fri, 11 Mar 16 19:36:10 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:36:10 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.8000841140747E-8
+[Fri, 11 Mar 16 19:36:20 +0530][DEBUG] [Flickr]apicallaction_start() at : page=11
+[Fri, 11 Mar 16 19:36:21 +0530][DEBUG] file time = 1.1080629825592E-6
+[Fri, 11 Mar 16 19:36:21 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=eedd832f358f3f832333896450879bb4&oauth_timestamp=1457705180GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=Gns4stAnC%2FJ6rTu1xgc%2Btikm7Dc%3D&format=rest&nojsoncallback=1&page=11&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:36:21 +0530][DEBUG] Time take in api = 1.10906291008E-6
+[Fri, 11 Mar 16 19:36:21 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:36:21 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 9.0010166168213E-9
+[Fri, 11 Mar 16 19:36:39 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:36:46 +0530][DEBUG] file time = 7.1314079761505E-6
+[Fri, 11 Mar 16 19:36:46 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=313656a568c439e3a083ea6b69d30b57&oauth_timestamp=1457705199GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=OMI6FJnnfLWxqYaoT07VBQ70QtQ%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:36:46 +0530][DEBUG] Time take in api = 7.1344079971313E-6
+[Fri, 11 Mar 16 19:36:46 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:36:46 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:38:06 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:38:09 +0530][DEBUG] file time = 2.1541230678558E-6
+[Fri, 11 Mar 16 19:38:09 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=694591be16ffb4977bddfe087ed1ff6f&oauth_timestamp=1457705286GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=pqiFuTCAwxY6ZsBnPpMkzBh1MJg%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:38:09 +0530][DEBUG] Time take in api = 2.1561231613159E-6
+[Fri, 11 Mar 16 19:38:09 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:38:09 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:39:09 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:39:13 +0530][DEBUG] file time = 3.7602150440216E-6
+[Fri, 11 Mar 16 19:39:13 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=ff6ffe5bb61ef4451f7062d9fd3a1142&oauth_timestamp=1457705349GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=5ez3hYRH3y9GW8Avne14ARYveGQ%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:39:13 +0530][DEBUG] Time take in api = 3.7622148990631E-6
+[Fri, 11 Mar 16 19:39:13 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:39:13 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:39:28 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:39:35 +0530][DEBUG] file time = 7.7696430683136E-6
+[Fri, 11 Mar 16 19:39:35 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=75dbb300256a72817aa7299933c1ca67&oauth_timestamp=1457705368GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=oa3s4ir5s5EfnNqKeqQRdeybXpA%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:39:35 +0530][DEBUG] Time take in api = 7.7696430683136E-6
+[Fri, 11 Mar 16 19:39:35 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:39:35 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:39:52 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:40:02 +0530][DEBUG] file time = 1.0185181856155E-5
+[Fri, 11 Mar 16 19:40:02 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=b79821fe84839f9d9aa9a27e59da8443&oauth_timestamp=1457705392GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=8wGL148jgP3v6MaYliohBd%2BjX8E%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:40:02 +0530][DEBUG] Time take in api = 1.0185181856155E-5
+[Fri, 11 Mar 16 19:40:02 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:40:02 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7001152038574E-8
+[Fri, 11 Mar 16 19:40:28 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:40:29 +0530][DEBUG] file time = 1.4650840759277E-6
+[Fri, 11 Mar 16 19:40:29 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=72ce7358faf60dda32f5fab96ff4d91e&oauth_timestamp=1457705428GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=bnLTzlFLrU83m5iF8Qapi32pbI4%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:40:29 +0530][DEBUG] Time take in api = 1.4660840034485E-6
+[Fri, 11 Mar 16 19:40:29 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:40:29 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:41:04 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:41:05 +0530][DEBUG] file time = 9.2605304718018E-7
+[Fri, 11 Mar 16 19:41:05 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=d58ac5882d924dc395abc9c8044ff954&oauth_timestamp=1457705464GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=BGAyDeDWE7suhuq0Y6ir1QMK5GA%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:41:05 +0530][DEBUG] Time take in api = 9.2805290222168E-7
+[Fri, 11 Mar 16 19:41:05 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:41:05 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:42:33 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:42:34 +0530][DEBUG] file time = 1.040060043335E-6
+[Fri, 11 Mar 16 19:42:34 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=90a4499df0499366857463ac4883fee3&oauth_timestamp=1457705553GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=C20sfdh9683ecET3PREWSqErXmg%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:42:34 +0530][DEBUG] Time take in api = 1.0410599708557E-6
+[Fri, 11 Mar 16 19:42:35 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:42:35 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 7.7003955841064E-8
+[Fri, 11 Mar 16 19:43:00 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:43:01 +0530][DEBUG] file time = 1.0390601158142E-6
+[Fri, 11 Mar 16 19:43:01 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=2fae91570d508f953c98ae6de66c5e51&oauth_timestamp=1457705580GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=9mWgs7D2tJoE55KlSX9zQQJJv1g%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:43:01 +0530][DEBUG] Time take in api = 1.040060043335E-6
+[Fri, 11 Mar 16 19:43:01 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:43:01 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000032424927E-8
+[Fri, 11 Mar 16 19:43:21 +0530][DEBUG] [Flickr]apicallaction_start() at : page=17
+[Fri, 11 Mar 16 19:43:22 +0530][DEBUG] file time = 1.2460708618164E-6
+[Fri, 11 Mar 16 19:43:22 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=379d287e0dfc61369e00a5b622e626ee&oauth_timestamp=1457705601GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=2k4K9PLQxiKfN0Gco5M%2BNkSsYXY%3D&format=rest&nojsoncallback=1&page=17&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:43:22 +0530][DEBUG] Time take in api = 1.2470710277557E-6
+[Fri, 11 Mar 16 19:43:22 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:43:22 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 3.1001806259155E-8
+[Fri, 11 Mar 16 19:43:35 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:43:36 +0530][DEBUG] file time = 1.1140630245209E-6
+[Fri, 11 Mar 16 19:43:36 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=7f065e85fcf2027a5174ccf61d346a34&oauth_timestamp=1457705615GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=cr%2BNYXBDHhF3yGxxKfV7f%2BZy8%2Bk%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:43:36 +0530][DEBUG] Time take in api = 1.1180641651154E-6
+[Fri, 11 Mar 16 19:43:36 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:43:36 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.0000944137573E-8
+[Fri, 11 Mar 16 19:46:47 +0530][DEBUG] [Flickr]apicallaction_start() at : page=17
+[Fri, 11 Mar 16 19:46:48 +0530][DEBUG] file time = 1.2030689716339E-6
+[Fri, 11 Mar 16 19:46:48 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=5c061f7e5aa295f330d966d892619439&oauth_timestamp=1457705807GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=qsu04is1GJHJcm84DeBMAhS%2BDk0%3D&format=rest&nojsoncallback=1&page=17&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:46:48 +0530][DEBUG] Time take in api = 1.2040688991547E-6
+[Fri, 11 Mar 16 19:46:48 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:46:48 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.5001058578491E-8
+[Fri, 11 Mar 16 19:46:51 +0530][DEBUG] [Flickr]apicallaction_start() at : page=17
+[Fri, 11 Mar 16 19:46:52 +0530][DEBUG] file time = 8.9205098152161E-7
+[Fri, 11 Mar 16 19:46:52 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=51e603837da5694614f7bc0fca7e85d5&oauth_timestamp=1457705811GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=T3tc%2BWQ37ew8fU9StM%2FxiAir9EQ%3D&format=rest&nojsoncallback=1&page=17&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:46:52 +0530][DEBUG] Time take in api = 8.9405107498169E-7
+[Fri, 11 Mar 16 19:46:52 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:46:52 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 9.0010166168213E-9
+[Fri, 11 Mar 16 19:47:01 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:47:05 +0530][DEBUG] file time = 4.0912339687347E-6
+[Fri, 11 Mar 16 19:47:05 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=285105ae3a081ec918e0649cfa3728d3&oauth_timestamp=1457705821GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=hRmBNdymjXzeSmIxz%2BSdzmnkotw%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:47:05 +0530][DEBUG] Time take in api = 4.0932340621948E-6
+[Fri, 11 Mar 16 19:47:05 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:47:05 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:47:39 +0530][DEBUG] [Flickr]apicallaction_start() at : page=17
+[Fri, 11 Mar 16 19:47:41 +0530][DEBUG] file time = 1.0740611553192E-6
+[Fri, 11 Mar 16 19:47:41 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=522755f9f1596941068ba837e8dbcc73&oauth_timestamp=1457705859GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=ftg4gMtEzeJsbDL%2Bfa9ejXaLEQI%3D&format=rest&nojsoncallback=1&page=17&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:47:41 +0530][DEBUG] Time take in api = 1.07506108284E-6
+[Fri, 11 Mar 16 19:47:41 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:47:41 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:47:47 +0530][DEBUG] [Flickr]apicallaction_start() at : page=12
+[Fri, 11 Mar 16 19:47:49 +0530][DEBUG] file time = 1.8771071434021E-6
+[Fri, 11 Mar 16 19:47:49 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=8f5671050392a4fe8e8a8e678a31cd78&oauth_timestamp=1457705867GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=%2Bhej%2Fa8PQltgrI%2B4j3PPGoEo7p8%3D&format=rest&nojsoncallback=1&page=12&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:47:49 +0530][DEBUG] Time take in api = 1.8781080245972E-6
+[Fri, 11 Mar 16 19:47:49 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:47:49 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:47:52 +0530][DEBUG] '[Flickr]photoAction():  action found'
+[Fri, 11 Mar 16 19:47:56 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:47:57 +0530][DEBUG] file time = 1.0410590171814E-6
+[Fri, 11 Mar 16 19:47:57 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=66e95b3394e3a1db2ea33d5cc3ae01c3&oauth_timestamp=1457705876GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=wBAAuW%2FmYs0rPAuyaEOXvin77zM%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:47:57 +0530][DEBUG] Time take in api = 1.042060136795E-6
+[Fri, 11 Mar 16 19:47:57 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:47:57 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:48:48 +0530][DEBUG] '[Flickr]photoAction():  action found'
+[Fri, 11 Mar 16 19:49:09 +0530][DEBUG] '[Flickr]photoAction():  action found'
+[Fri, 11 Mar 16 19:49:13 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:49:14 +0530][DEBUG] file time = 1.0520598888397E-6
+[Fri, 11 Mar 16 19:49:14 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=59987b8b1a3ea350a5d9236bdd079d1d&oauth_timestamp=1457705953GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=XGsp%2FKr%2FGb%2BAAzvWh5aUZFFqAGw%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:49:14 +0530][DEBUG] Time take in api = 1.0550601482391E-6
+[Fri, 11 Mar 16 19:49:14 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:49:14 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:49:21 +0530][DEBUG] '[Flickr]photoAction():  action found'
+[Fri, 11 Mar 16 19:49:23 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:49:24 +0530][DEBUG] file time = 1.2570719718933E-6
+[Fri, 11 Mar 16 19:49:24 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=04b9d2fb64b2b432aab6ea96d0e6da83&oauth_timestamp=1457705963GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=gKDvTmRUwg%2BedgiExuofY2nSm6M%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:49:24 +0530][DEBUG] Time take in api = 1.2590720653534E-6
+[Fri, 11 Mar 16 19:49:24 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:49:24 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7000913619995E-8
+[Fri, 11 Mar 16 19:49:31 +0530][DEBUG] [Flickr]apicallaction_start() at : page=9
+[Fri, 11 Mar 16 19:49:32 +0530][DEBUG] file time = 1.2710728645325E-6
+[Fri, 11 Mar 16 19:49:32 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=a0d676bbf707a056aa0397330ea91d7c&oauth_timestamp=1457705971GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=waoziHA3nOU2ngDyQvU15D0cPOA%3D&format=rest&nojsoncallback=1&page=9&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:49:32 +0530][DEBUG] Time take in api = 1.2720730304718E-6
+[Fri, 11 Mar 16 19:49:32 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:49:32 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.6000986099243E-8
+[Fri, 11 Mar 16 19:49:35 +0530][DEBUG] '[Flickr]photoAction():  action found'
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] [Flickr]apicallaction_start() at : page=1
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] file time = 9.4505381584167E-7
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] Sending request to = https://api.flickr.com/services/rest?method=flickr.interestingness.getList&oauth_nonce=e6407f08c0ca200f019203f97e394fa5&oauth_timestamp=1457705977GMTC&oauth_consumer_key=f1223192eab5461b28cb8a2872c27129&oauth_signature_method=HMAC-SHA1&oauth_version=1.0&oauth_signature=jfikkIhfMEcN%2BcCSVTe0ppTzU5c%3D&format=rest&nojsoncallback=1&page=1&per_page=25&extras=date_upload%2Clicense%2Cdate_taken%2Cowner_name%2Coriginal_format%2Clast_update%2Cgeo%2Ctags%2Cviews%2Cmedia
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] Time take in api = 9.4605398178101E-7
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] 
+[Fri, 11 Mar 16 19:49:37 +0530][DEBUG] [Flickr]interestingAction_end() at : time = 1.7001152038574E-8

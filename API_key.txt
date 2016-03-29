@@ -1,0 +1,30 @@
+	training_app
+Key:
+f1223192eab5461b28cb8a2872c27129
+
+Secret:
+d45dde49cf173525
+---------------------------------------------------------------
+
+Array
+(
+    [0] => oauth_callback_confirmed=true
+    [1] => oauth_token=72157665093870062-736796ab8decc5eb
+    [2] => oauth_token_secret=98279c12ca6dd099
+)
+
+
+https://www.flickr.com/services/oauth/authorize?grant_type=refresh_token&oauth_token=72157665093870062-736796ab8decc5eb&perms=delete 
+
+&oauth_verifier=a52216d0fb033ac
+
+
+
+Array
+(
+    [0] => fullname=mohan%20pattar
+    [1] => oauth_token=72157665047708176-98e5635b9cbd1519
+    [2] => oauth_token_secret=aa35f58071ae0354
+    [3] => user_nsid=138690464%40N05
+    [4] => username=mohanpattar123
+)
